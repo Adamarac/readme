@@ -25,7 +25,7 @@ First, clone the repository to your local machine:
 ```sh
   git clone https://github.com/amphybio/Long-COVID-Clustering.git clustering
   ```
-This command creates the folder `LongCOVIDClustering` and clones the repository directly into it.  
+This command creates the folder `clustering` and clones the repository directly into it.  
 
 
 2. **Create and activate the Python/R virtual environment**
